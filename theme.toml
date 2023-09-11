@@ -1,0 +1,5 @@
+
+baseURL: "http://magsther.github.io/"
+title: test-page
+paginate: 5
+theme: hugo-paper
