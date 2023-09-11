@@ -1,5 +1,5 @@
 
-baseURL: "http://magsther.github.io/"
+baseURL: "http://vishalmmehra.github.io/"
 title: test-page
 paginate: 5
 theme: hugo-paper
