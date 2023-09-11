@@ -1,4 +1,4 @@
-baseURL = 'https://vishalmmehra.github.io/demo3'
+baseURL = 'https://vishalmmehra.github.io/demo3/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-paper'
